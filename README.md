@@ -1,4 +1,4 @@
-# Financial_Market_Analysis
+# Financial Market Analysis
 
 ## Overview
 This project focuses on sentiment analysis of financial market news using machine learning techniques. The primary objective is to classify news headlines as positive or negative based on sentiment. By analyzing financial news, investors and analysts can make more informed decisions regarding market trends and potential risks.
@@ -53,8 +53,3 @@ The model's performance is evaluated using:
 ## Contributing
 Contributions are welcome! Feel free to fork the repository and submit pull requests with enhancements, bug fixes, or new features.
 
-## License
-This project is open-source and available for educational and research purposes under the MIT License.
-
-## Contact
-For questions or collaborations, contact the project maintainers at [your-email@example.com](vijaykumarnr04@gmail.com).
