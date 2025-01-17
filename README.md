@@ -1,4 +1,4 @@
-# Financial Market Analysis
+<h1><img src="image/finance.png" width="70"/> Financial Market Analysis 💹</h1>
 
 ## Overview
 This project focuses on sentiment analysis of financial market news using machine learning techniques. The primary objective is to classify news headlines as positive or negative based on sentiment. By analyzing financial news, investors and analysts can make more informed decisions regarding market trends and potential risks.
