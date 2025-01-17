@@ -57,4 +57,4 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 This project is open-source and available for educational and research purposes under the MIT License.
 
 ## Contact
-For questions or collaborations, contact the project maintainers at [your-email@example.com](mailto:your-email@example.com).
+For questions or collaborations, contact the project maintainers at [your-email@example.com](vijaykumarnr04@gmail.com).
