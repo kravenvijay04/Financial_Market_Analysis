@@ -48,7 +48,6 @@ The model's performance is evaluated using:
 - Experiment with advanced NLP models like LSTM, Transformers, or BERT for better accuracy.
 - Expand the dataset for better generalization and robustness.
 - Implement real-time news sentiment analysis using web scraping and APIs.
-- Improve feature engineering techniques such as TF-IDF and word embeddings.
 
 ## Contributing
 Contributions are welcome! Feel free to fork the repository and submit pull requests with enhancements, bug fixes, or new features.
